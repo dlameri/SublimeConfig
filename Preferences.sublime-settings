@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/User/Colorsublime/themes/Peacock.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage",
+		"JavaScript"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
+}
