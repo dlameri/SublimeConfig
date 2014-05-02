@@ -1,8 +1,12 @@
 {
-	"color_scheme": "Packages/User/Colorsublime/themes/Peacock.tmTheme",
-	"ignored_packages": [
-		"Vintage",
-		"JavaScript"
+	"theme": "Flatland Dark.sublime-theme",
+  "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
